@@ -23,3 +23,7 @@ Backup dan Restore Menggunakan Perintah SQL
 
 
 ![image](https://user-images.githubusercontent.com/81598231/123591819-a8ee4600-d816-11eb-94ed-ff3819265493.png)
+
+![image](https://user-images.githubusercontent.com/81598231/123730922-62a1f100-d8c1-11eb-919a-cd307ce6a046.png)
+
+![image](https://user-images.githubusercontent.com/81598231/123730953-6f264980-d8c1-11eb-9538-e339e2234c63.png)
